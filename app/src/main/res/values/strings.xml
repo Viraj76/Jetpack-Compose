@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jetpack Compose</string>
+    <string name="title_activity_built_in_compose">BuiltInCompose</string>
+    <string name="title_activity_built_in_layouts">BuiltInLayouts</string>
+</resources>
