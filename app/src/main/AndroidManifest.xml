@@ -13,6 +13,11 @@
         android:theme="@style/Theme.JetpackCompose"
         tools:targetApi="31">
         <activity
+            android:name=".modifiers.ModifiersActivity"
+            android:exported="false"
+            android:label="@string/title_activity_modifiers"
+            android:theme="@style/Theme.JetpackCompose" />
+        <activity
             android:name=".built.in.layouts.BuiltInLayouts"
             android:exported="false"
             android:label="@string/title_activity_built_in_layouts"
