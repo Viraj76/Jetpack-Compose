@@ -1,0 +1,15 @@
+.... Lecture 7 .... (Recomposition)
+
+        * it doesn't  render all the screen only where it is of requirement
+        *
+
+.... Lecture 8 .... (State Concept - Hoisting & Unidirectional Flow)
+
+        * State means , now in compose lets say there is a count button then it will not increase the counter as we have done
+        earlier , now we have to make an counter as an object of mutableState also inside the remember.
+        * There is a rememberSaveable that can work as the view model , it will handle the orientation od the device
+
+        * State hoisting - It means the upper level compose will pass the state to all below composable
+        * Data providing is up to down and events are bottom to top
+
+
