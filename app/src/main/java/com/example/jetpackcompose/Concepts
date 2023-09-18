@@ -12,4 +12,10 @@
         * State hoisting - It means the upper level compose will pass the state to all below composable
         * Data providing is up to down and events are bottom to top
 
+.... Launched Effects ....
+
+        * Whenever we want to execute a line of code once or with some certain condition then we will use LaunchEffect
+        to avoid any Side Effects.
+
+
 
